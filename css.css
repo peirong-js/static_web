@@ -99,7 +99,7 @@ textarea:hover{border-color: #07cbc9;}
 
 
 .AB_box{height: 400px;width: 1300px;
-		background: url(bb3.jpg) no-repeat center;
+		background: url(/bb3.jpg) no-repeat center;
 		position: relative;
 		margin: 20px auto;
 			}
